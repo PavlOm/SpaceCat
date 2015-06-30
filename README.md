@@ -1,1 +1,2 @@
 # SpaceCat
+# example project
